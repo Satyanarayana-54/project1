@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <center>
+<h1>**4 DAY TASK**</h1>
+<h3>VISUAL CODE STUDIO</h3>
+</center>
+<p>Copilot is your AI pair programmer infused directly into the editor. Just start typing, and Copilot will complete your thought by offering a completion on the current line or (sometimes) a whole new block of code. Just like a coworker, you have the flexibility to accept all, some, or none of Copilot's suggestions. Copilot supports a broad range of languages and frameworksC
+    Syntax Highlighting and Auto-Completion for most langua</p>
+<h2>features of vs code</h2> 
+<p>Syntax Highlighting and Auto-Completion for most languages.
+    Integrated Terminal for running scripts or commands.
+    Version Control Integration for Git and other systems.
+    Extensions Marketplace to add functionality, such as language-specific support, linters, debuggers, themes, and more.
+    Customizable Interface with user-defined settings and shortcuts.
+    Built-in Debugging for a seamless coding experience.
+    
+</p>
+<table border="2""cellpadding="60"px cells spacing="10px">
+    <tr>
+        <th>Emmet symbol</th>
+        <th>description</th>
+        
+
+    </tr>
+    <tr>
+  <td>!</td>
+  <td>Expands to the html5 template</td>
+  
+    </tr>
+    <tr>
+        <td>Tag name</td>
+        <td>Expand the complete the tag</td>
+        
+    </tr>
+    <tr>
+        <td>> </td>
+        <td>Used to create child elements within a parent element</td>
+        <tr>
+            <td>+</td>
+            <td>Used to create sibling elements</td>
+        </tr>
+        <tr>
+            <td>^</td>
+            <td>Moves up one level in the hierarchy, allowing you to add sibling elements to parent elements.</td>
+
+    
+        </tr>
+        <tr>
+            <td>*</td>
+            <td>	Create multiple elements</td>
+
+        </tr>
+        <tr>
+            <td>{}</td>
+            <td>for content</td>
+        </tr>
+        <tr>
+            
+            <td>[]</td>
+            <td>for attributes</td>
+        </tr>
+        
+    <table border="2"cellpadding="10"px cells spacing="10px">
+        <h2>key board short cut</h2>
+    <tr>
+        <th>shortcut</th>
+        <th>description</th>
+    </tr>
+    <tr>
+        <td>ctrl.s</td>
+        <td>saving the file</td>
+    </tr>
+    <td>ctrl.c</td>
+    <td>copy</td>
+    <tr>
+        <td>ctrl.v</td>
+        <td>paste</td>
+        
+    </tr>
+    <tr>
+        <td>ctrl.x</td>
+        <td>cut</td>
+    </tr>
+    <tr>
+        <td>ctrl.z</td>
+        <td>undo</td>
+    </tr>
+    <tr>
+        <td>ctrl.y</td>
+        <td>redo</td>
+    </tr>
+    <tr>
+        <td>ctrl.a</td>
+        <td>select.all</td>
+    </tr>
+    <tr>
+        <td>shift/down/left/right</td>
+        <td>selecting</td>
+    </tr>
+    <tr>
+        <td>alt up/down</td>
+        <td>move</td>
+    </tr>
+   <tr>
+    <td>ctrl/shift lalt/down</td>
+    <td>for muliple soursu</td>
+   </tr> 
+   <tr>
+    <td>ctrl.+</td>
+    <td>increse</td>
+   </tr>
+   <tr>
+    <td>ctlr._</td>
+    <td>dicrease</td>
+   </tr>
+   <tr>
+    <td>ctrl.shift.P</td>
+    <td>pallets</td>
+   </tr>
+   <tr>
+    <td>ctrl shift.N</td>
+    <td> new window</td>
+   </tr>
+   <tr>
+    <td>ctrl.shift.W</td>
+    <td>close window</td>
+   </tr>
+
+    </table>
+    
+    
+</table>
+</body>
+</html>
